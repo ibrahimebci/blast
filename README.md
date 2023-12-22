@@ -1,13 +1,10 @@
 ##Blast (2.0.0)
-
 **Docs**  
 [julian.com/research/velocity/blast](https://www.julian.com/research/velocity/blast)
-
 **Quickstart**
-
 ```sh
 npm install blast-text
-```
+``
 
 ```sh
 bower install blast-text
